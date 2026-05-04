@@ -1,6 +1,6 @@
 # 🎯 Estudante | Robótica (SESI) | Tecnologia e Redes
 
-Sou estudante do SESI e integrante da equipe de robótica, com foco no desenvolvimento de habilidades em programação, redes e automação. Tenho interesse em infraestrutura de redes e lógica computacional.
+Sou estudante do SESI e competidor de robótica, com foco no desenvolvimento de habilidades em programação, redes e automação. Tenho interesse em infraestrutura de redes e lógica computacional.
 
 Busco constantemente aprimorar meus conhecimentos técnicos e aplicar esse aprendizado em projetos reais, tanto na robótica quanto na área de tecnologia e redes.
 
